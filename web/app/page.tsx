@@ -109,18 +109,19 @@ export default function Home() {
 
             <p>
               I <strong>co-founded Nomad Mannequin</strong> with two MIT friends. We built a full-size mannequin
-              that collapses into a briefcase for apparel brands at trade shows. I drove everything from customer discovery and ideation to prototyping and through to
-              sales and marketing. It taught me how to make tradeoffs, learn fast from customers, and ship products that create value.
+              that collapses into a briefcase for apparel brands at trade shows. I led customer discovery, product ideation, prototyping, and go to market efforts.
+              This experience sharpened my ability to learn fast from customers, make tradeoffs, and ship products that create value.
             </p>
 
             <p>
-              Professionally, I work in <strong>strategy consulting</strong> for large enterprises, often in Financial Services. I partner with
-              C-suite executives to diagnose root problems, design solutions, and build prioritized roadmaps to help enterprises
-              deliver on their business goals. My role has expanded to include <strong>delivery management</strong> on cross-functional agile teams.
-              I translate the strategy into execution by writing PRDs and user stories, facilitating client discovery to validate requirements,
-              partering with Design on functional requirements and acceptance criteria, and working with Engineering and client SMEs to deliver integrations.
-              I drive backlog prirotization, milestone planning, and regular demos to ensure predictable delivery.
-               
+              Professionally, I work in <strong>strategy consulting</strong>, often in Financial Services. I partner with
+              C-suite leaders to diagnose root problems, design solutions, and build prioritized roadmaps to help enterprises
+              deliver on their business goals. I also  <strong>lead delivery</strong> by writing PRDs and user stories, facilitating client discovery
+              to validate requirements, aligning with Design on functional specs and acceptance criteria, and partering with Engineering and client SMEs to 
+              deliver integrations. I drive backlog prirotization, milestone planning, and regular demos to ensure predictable delivery.
+              
+              
+            
   
             </p>
 

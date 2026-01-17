@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Yuka Perera | Product Manager & Builder",
     description: "MIT-educated product manager and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
-    images: ["/images/Yuka_Headshot.png"],
+    images: ["https://yukaperera.com/images/Yuka_Headshot.png"],
   },
 };
 
