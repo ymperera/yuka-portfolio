@@ -37,16 +37,31 @@ Secondary audience: peers and collaborators.
 
 ## Style requirements
 - Clean, modern, minimal
+- Very visual, tastefully done with images and icons to make it aesthetic yet easy to skim.
 - Readable typography, generous spacing
 - Avoid gimmicky animations; subtle only
 - Accessibility: good contrast, alt text, keyboard navigation
 
 ## Assets available
-- Photos and screenshots in: assets/images
-- Source copy in: website_copy.txt (Claude should use this as the starting point)
+- PCopy: content/Profile_Info.txt
+
+- Images/videos: public/images
+
+- Resume: public/Perera_Yuka_Resume.pdf
 
 ## Working rules for Claude
 - Prefer small, reviewable commits
 - Don’t introduce heavy dependencies unless necessary
 - After generating code, also provide brief run instructions
 - When uncertain, propose 2–3 options with tradeoffs, then pick the simplest default
+- Navigation: Home, About, Projects, Experience, Contact, Resume
+
+- Tone: concise, personal, no dash bullets, do not copy verbatim from Profile_Info.txt. Rewrite to sound concise, clear, smooth and easy to read, and impressivev.
+
+- Hero: make MIT + Co-founder and 2nd year in strategy consulting status visually obvious above the fold
+
+- Experience: include Accenture, GM, Shell, MIT Global Teaching Labs (Entrepreneurship/CS instructor) with 1–3 impact bullets each
+
+- About: include All-American tennis, outdoors/hiking/national park stickers, travel (20 countries), honor societies (Tau Beta Pi, Pi Tau Sigma). Make the About page very friendly and casual and more like I am just trying to let people behind the scenes to get to know me a bit more.
+
+- Project labels: Nomad = Co-founder; others = Product Builder or Developer (not Founder)

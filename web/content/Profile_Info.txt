@@ -9,7 +9,14 @@ In addition to strategy, I have experience as the delivery manager, working clos
 
 
 --------Work Experience Details---------
-See Perera_Yuka_Resume.pdf
+Accenture Strategy — Strategy Analyst (Jun 2024–Present)
+
+Lead cross-functional workstreams and own key client deliverables, including work supporting a $900M+ Financial Services engagement focused on rethinking the customer experience. 
+
+Run discovery and ideation sessions with senior and C-suite stakeholders to surface pain points, operational inefficiencies, and high-leverage automation opportunities. 
+
+
+Translate large, complex data sets into clear insights that shape the future-state vision and accelerate decision-making and execution.
 
 At Accenture Strategy, I have worked on many clients.
 As a delivery manager on a large financial services client. Worked with client SMEs to define detailed technical process mapping to deploy on program increment opportunities.
@@ -18,6 +25,21 @@ Worked with a large consumer bank to map out their current state processes, iden
 I worked with another financial institution to help them deploy a digital assistant into their enterprise. I deployed a playbook to define their ongoing efforts to continuously improve the agent, day to day governance processes, and detailed prioritization framework to prioritize intents to automate and streamline.
 I also worked to write a white paper that benchmarked the capabilities of GenAI chatbots, accompanied with deep research into key impact metrics.
 
+MIT Global Teaching Labs — Entrepreneurship & Computer Science Instructor (Dec 2022–Jul 2023)
+
+Built and delivered an entrepreneurship, data analytics, and computer science curriculum for advanced high school students in Italy and Israel. 
+
+
+Taught highly interactive lessons designed to drive critical thinking, problem-solving, and student engagement. 
+
+
+General Motors — Product Development, Hardware Engineering Intern (Jun 2022–Aug 2022)
+
+Ran experimental studies on electromagnetic properties and tuned variables (materials, temperature, geometry) to improve in-lab EV battery performance by 6%. 
+
+Collaborated with cross-functional partners on sustainable vehicle body and accessory concepts aimed at strengthening product competitiveness and supporting sales growth.
+
+I also have experience working at Shell Oil Company, working with a  group of stakeholders to research and propose methods for handling their oil based waste from offshore drilling in a sustainable way. And also at various MIT labs working on research projects ranging from Materials Science to Energy Studies to Computer Science and Data Analysis.
 
 ------Side Project Descriptions----------
 -
@@ -101,8 +123,13 @@ Define product requirements, validate assumptions, and begin prototyping with ea
 --------Portfolio Pieces----------
 Ive attached photos/videos of the pieces ive worked on in the Personal_Website folder. I also have attached a headshot to include in my website.
 
-------LinkedIN------
-link: https://www.linkedin.com/in/yuka-perera-062933199/
+------Contact------
+linkedin: https://www.linkedin.com/in/yuka-perera-062933199/
+email: yukaperera@gmail.com
+phone: 805-722-4013
+
+------Origin-------
+Grew up in Santa Barbara, CA. Japanese mom and South Asian dad. Parents own restaurants, which has fueled my entrepreneurial spirit.
 
 -----Color / Design Inspiration---------
 I like a simple, minimalist portfolio. A clean, modern look is preferred. Id like to highlight my personal background, specifically being at MIT and being a co-founder, and how those experiences have shaped me into an excellent product manager.
