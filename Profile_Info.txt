@@ -1,0 +1,108 @@
+--------Bio-----------
+I’m Yuka Perera, a product-minded builder with a foundation in engineering, business, and execution. I studied Mechanical Engineering at MIT, concentrating in Product Development with a minor in Business Management, and graduated in the top 10% of my class, earning membership in Tau Beta Pi and Pi Tau Sigma. My education trained me to think from first principles, approach problems analytically, and design products that balance technical rigor with real-world usability and impact.
+
+I’m a co-founder of Nomad Mannequin, a startup I built with two MIT friends to help businesses sell more effectively at trade shows through portable display solutions. I owned the product end-to-end: from customer discovery and stakeholder interviews, to ideation, prototyping, and iterative product development, through to sales and marketing. Building Nomad taught me how to operate with true product ownership: making tradeoffs under constraints, learning quickly from customers, and shipping solutions that create measurable business value.
+
+Professionally, I work in strategy consulting, focusing on service and operating model strategy for large enterprises, often in Financial Services. I partner directly with C-suite executives to deeply understand business goals, diagnose current-state processes, and translate complexity into clear, prioritized, and actionable roadmaps. I bridge strategy and execution, ensuring that vision is grounded in feasibility and aligned to outcomes.
+
+In addition to strategy, I have experience as the delivery manager, working closely with engineers and client SMEs to execute on the upfront strategy and deploying pilots and launch solutions that meet defined performance metrics. Outside of my core work, I’m an active builder, experimenting at the forefront of AI tools, shipping projects to streamline my own workflows, and creating things for my community. I’m drawn to product roles where I can combine structured thinking, speed, and ownership to build products that matter.
+
+
+--------Work Experience Details---------
+See Perera_Yuka_Resume.pdf
+
+At Accenture Strategy, I have worked on many clients.
+As a delivery manager on a large financial services client. Worked with client SMEs to define detailed technical process mapping to deploy on program increment opportunities.
+Worked with C-suite executives at a logistics company to define their global strategy for operating model and shared services.
+Worked with a large consumer bank to map out their current state processes, identify key pain points, and re-define the user experience by using the Agile methodology to write PRDs for their future state experience, work with the design team to write out the detailed design requirements, and lead the technical team to write technical requirements to meet the business requirements.
+I worked with another financial institution to help them deploy a digital assistant into their enterprise. I deployed a playbook to define their ongoing efforts to continuously improve the agent, day to day governance processes, and detailed prioritization framework to prioritize intents to automate and streamline.
+I also worked to write a white paper that benchmarked the capabilities of GenAI chatbots, accompanied with deep research into key impact metrics.
+
+
+------Side Project Descriptions----------
+-
+Nomad Mannequin
+
+Co-Founder | Product & Hardware
+
+Problem
+Apparel brands at trade shows lose sales when buyers can’t see garments on a real body. Traditional mannequins are expensive to rent, fragile to ship, and logistically painful to transport—especially for small and mid-sized brands.
+
+Solution
+I co-founded Nomad Mannequin, a full-size mannequin that collapses into a briefcase, making professional product display portable, affordable, and practical. I owned the product end-to-end: customer discovery with vendors and buyers, concept development, rapid prototyping, iterative product refinement, and go-to-market execution through sales and marketing.
+
+Impact & Skills
+This project sharpened my ability to balance user needs, find product market fit, manufacturing constraints, cost, and usability—while taking full ownership from zero to revenue.
+Tech: CAD, machine shop tooling, laser cutting, personal 3D printers
+-
+
+Reel Bot
+
+Founder | Growth Automation
+
+Problem
+Marketing Nomad Mannequin on Instagram was highly manual and time-consuming, making it difficult to consistently identify trends early enough to benefit from them.
+
+Solution
+I built Reel Bot, a web-scraping system that continuously collects Instagram Reel data—engagement metrics, trending songs, transcripts, screenshots, and growth velocity—to surface emerging trends early. This enabled data-driven decisions about what content to create and when, significantly reducing manual effort while increasing reach potential.
+
+Impact & Skills
+Reel Bot transformed marketing from intuition-driven to signal-driven, saving hours of manual work and improving the odds of riding trends before saturation.
+Tech: Playwright, built using Claude Code
+-
+
+PicklQ
+
+Product Builder | Community Tool
+
+Problem
+At community pickleball courts, figuring out who’s next to play is chaotic. Players must verbally check with multiple groups, leading to confusion, inefficiency, and occasional conflict.
+
+Solution
+I built PicklQ, a lightweight web app that digitizes the court queue. Players scan a QR code, join the queue, and advance it as games finish—making turn order transparent and eliminating disputes.
+
+Impact & Skills
+PicklQ is a simple but effective example of identifying friction in everyday experiences and solving it with minimal UX and clear incentives.
+Tech: Firebase (hosting + backend), built using Codex
+
+URL: picklq.com
+-
+
+Directory Scraper
+
+Founder | Sales & Ops Automation
+
+Problem
+Outbound sales for Nomad Mannequin required manually clicking through trade show brand directories, evaluating fit against an ideal customer profile, prioritizing leads, and writing custom outreach—an extremely slow and repetitive process.
+
+Solution
+I built a directory scraping and prioritization tool that automatically extracts brand data from directories into structured spreadsheets, ranks leads using a predefined ICP framework, and prepares them for targeted outreach.
+
+Impact & Skills
+This tool compressed days of manual research into minutes and created a scalable foundation for outbound growth.
+Next Steps: Automate personalized outbound emails using the scraped data
+Tech: Custom web scraping, built using Codex
+-
+
+Hungriful
+
+Product Concept | Early-Stage Ideation
+
+Problem
+Deciding where to eat with friends is frustrating—most people don’t have strong preferences, but they do have constraints. Group decision-making breaks down quickly.
+
+Solution
+Hungriful is a group dining app where everyone swipes left or right on the same set of restaurants. Each user must select a minimum number of “yes” options to ensure even picky eaters are represented, and matches surface naturally without debate.
+
+Next Steps
+Define product requirements, validate assumptions, and begin prototyping with early users.
+-
+
+--------Portfolio Pieces----------
+Ive attached photos/videos of the pieces ive worked on in the Personal_Website folder. I also have attached a headshot to include in my website.
+
+------LinkedIN------
+link: https://www.linkedin.com/in/yuka-perera-062933199/
+
+-----Color / Design Inspiration---------
+I like a simple, minimalist portfolio. A clean, modern look is preferred. Id like to highlight my personal background, specifically being at MIT and being a co-founder, and how those experiences have shaped me into an excellent product manager.
