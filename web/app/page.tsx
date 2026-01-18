@@ -114,11 +114,11 @@ export default function Home() {
             </p>
 
             <p>
-              Professionally, I work in <strong>strategy consulting</strong>, often in Financial Services. I partner with
+              Professionally, I work in <strong>strategy consulting</strong>. I partner with
               C-suite leaders to diagnose root problems, design solutions, and build prioritized roadmaps to help enterprises
-              deliver on their business goals. I also  <strong>lead delivery</strong> by writing PRDs and user stories, facilitating client discovery
-              to validate requirements, aligning with Design on functional specs and acceptance criteria, and partering with Engineering and client SMEs to 
-              deliver integrations. I drive backlog prirotization, milestone planning, and regular demos to ensure predictable delivery.
+              deliver on their business goals. I also  <strong>lead delivery</strong> by writing PRDs and user stories, facilitating client discovery,
+             aligning with Design on functional specs and acceptance criteria, and partering with Engineering and client SMEs to 
+              deliver integrations. I drive backlog prioritization, milestone planning, and regular demos to ensure predictable delivery.
               
               
             
@@ -287,14 +287,16 @@ export default function Home() {
                     <div>
                       <h4 className="font-semibold text-gray-900 mb-2">Problem</h4>
                       <p>
-                        Marketing Nomad on Instagram was manual and slow. Spotting trends early was nearly impossible.
+                        Marketing Nomad on Instagram was manual and hard to scale. The biggest challenge was spotting new Reel formats early, when reach and brand visibility is the hgihest.
+                        This meant spending hours scrilling just to identify repeatable patterns early on before they were over-saturated.
                       </p>
                     </div>
 
                     <div>
                       <h4 className="font-semibold text-gray-900 mb-2">What I Built</h4>
                       <p>
-                        A web scraper that tracks Instagram Reels: engagement metrics, trending songs, transcripts, growth velocity. Surfaces emerging trends so I can ride them before they saturate.
+                        A web scraper that tracks Instagram Reels: engagement metrics, trending songs, transcripts, growth velocity. Surfaces emerging trends so I can capitalize on them early and 
+                        achieve maximum engagement and visibility on our Reels before the trends become saturated.
                       </p>
                       <p className="mt-2">
                         Transformed marketing from gut feel to data-driven. Saved hours every week.
@@ -335,7 +337,7 @@ export default function Home() {
                     <div>
                       <h4 className="font-semibold text-gray-900 mb-2">Problem</h4>
                       <p>
-                        At public pickleball courts, nobody knows who's next. Lots of confusion and occasional arguments.
+                        At public pickleball courts, nobody knows who's next up to play. Lots of confusion and arguments stemming from lack of organization.
                       </p>
                     </div>
 
@@ -345,7 +347,7 @@ export default function Home() {
                         A simple queue app. Players scan a QR code, join the queue, advance it when games finish. Turn order is transparent. No disputes.
                       </p>
                       <p className="mt-2">
-                        Spotted friction in everyday life and solved it with minimal UX.
+                        Spotted friction in everyday life and solved it with intuitive UX.
                       </p>
                     </div>
 
