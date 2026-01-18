@@ -90,34 +90,19 @@ Tech: Firebase (hosting + backend), built using Codex
 URL: picklq.com
 -
 
-Directory Scraper
-
-Founder | Sales & Ops Automation
-
-Problem
-Outbound sales for Nomad Mannequin required manually clicking through trade show brand directories, evaluating fit against an ideal customer profile, prioritizing leads, and writing custom outreach—an extremely slow and repetitive process.
-
-Solution
-I built a directory scraping and prioritization tool that automatically extracts brand data from directories into structured spreadsheets, ranks leads using a predefined ICP framework, and prepares them for targeted outreach.
-
-Impact & Skills
-This tool compressed days of manual research into minutes and created a scalable foundation for outbound growth.
-Next Steps: Automate personalized outbound emails using the scraped data
-Tech: Custom web scraping, built using Codex
--
-
 Hungriful
 
-Product Concept | Early-Stage Ideation
+Product Builder | Group Decision App
 
 Problem
-Deciding where to eat with friends is frustrating—most people don’t have strong preferences, but they do have constraints. Group decision-making breaks down quickly.
+Coordinating a dinner plan in Manhattan is unnecessarily slow: group chats drag on, preferences conflict, and the "decision" often happens too late to get a reservation. Hungriful solves this by turning group restaurant selection into a fast, structured voting flow that produces a clear winner and a direct path to booking.
 
 Solution
-Hungriful is a group dining app where everyone swipes left or right on the same set of restaurants. Each user must select a minimum number of “yes” options to ensure even picky eaters are represented, and matches surface naturally without debate.
+Hungriful is a group decision app that lets a host start a session (location, time, party size, price), then sends friends a link to swipe through 20 restaurant profiles with Yes / Maybe / No votes. Votes update a live, anonymized leaderboard, and the session outputs the top-ranked restaurant with a reservation link when available.
 
-Next Steps
-Define product requirements, validate assumptions, and begin prototyping with early users.
+Impact & Skills
+Turns an endless debate into a fast, structured voting flow that produces a clear winner and direct path to booking.
+Tech: React/Next.js (frontend), Node.js backend APIs, a realtime database for live updates (Firebase/Firestore), and a restaurant data integration (Google Places or Yelp API) with reservation availability checks.
 -
 
 --------Portfolio Pieces----------

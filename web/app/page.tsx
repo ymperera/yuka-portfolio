@@ -51,27 +51,27 @@ export default function Home() {
             />
           </div>
 
-          <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
+          <h1 className="text-3xl md:text-6xl font-bold text-gray-900 mb-6">
             Yuka Perera
           </h1>
 
           <div className="flex flex-wrap items-center justify-center gap-3 mb-8">
-            <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-base md:text-lg font-semibold shadow-sm">
+            <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-sm md:text-lg font-semibold shadow-sm">
               <strong>MIT</strong>  Engineering
             </span>
-            <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-base md:text-lg font-semibold shadow-sm">
+            <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-sm md:text-lg font-semibold shadow-sm">
               <strong>Co-founder</strong>
             </span>
-            <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-base md:text-lg font-semibold shadow-sm">
+            <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-sm md:text-lg font-semibold shadow-sm">
               <strong>Product Manager</strong> & Builder
             </span>
           </div>
 
-          <p className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto mb-10 leading-relaxed font-medium">
+          <p className="text-base md:text-xl text-gray-700 max-w-3xl mx-auto mb-10 leading-relaxed font-medium">
             I love to build products that solve real user problems.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center text-lg">
+          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center text-base md:text-lg">
             <a href="mailto:yukaperera@gmail.com" className="text-gray-700 hover:text-gray-900">
               yukaperera@gmail.com
             </a>
@@ -95,7 +95,7 @@ export default function Home() {
             About Me
           </h2>
 
-          <div className="space-y-5 text-gray-700 leading-relaxed text-lg">
+          <div className="space-y-5 text-gray-700 leading-relaxed text-base md:text-lg">
             <p>
               I'm a <strong>curious</strong>, <strong>lifelong learner</strong>, and <strong>product-minded builder</strong>.
               At <strong>MIT</strong>, I studied Mechanical Engineering with a focus on Product Development
@@ -367,45 +367,44 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Directory Scraper */}
+            {/* Hungriful */}
             <div className="group">
               <div className="flex flex-col md:flex-row gap-8">
                 <div className="md:w-1/3">
-                  <div className="relative aspect-square rounded-xl overflow-hidden bg-gradient-to-br from-gray-800 to-gray-600 flex items-center justify-center shadow-md">
+                  <div className="relative aspect-square rounded-xl overflow-hidden bg-gradient-to-br from-orange-500 to-red-600 flex items-center justify-center shadow-md">
                     <div className="text-white text-center p-6">
-                      <div className="text-5xl mb-2">🔍</div>
-                      <div className="text-lg font-semibold">Directory Scraper</div>
+                      <div className="text-5xl mb-2">🍽️</div>
+                      <div className="text-lg font-semibold">Hungriful</div>
                     </div>
                   </div>
                 </div>
                 <div className="md:w-2/3">
                   <div className="flex items-center gap-3 mb-3">
-                    <h3 className="text-2xl font-bold text-gray-900">Directory Scraper</h3>
-                    <span className="px-3 py-1.5 bg-gray-700 text-white text-sm rounded-full font-semibold">Developer</span>
+                    <h3 className="text-2xl font-bold text-gray-900">Hungriful</h3>
+                    <span className="px-3 py-1.5 bg-gray-700 text-white text-sm rounded-full font-semibold">Product Builder</span>
                   </div>
-                  <p className="text-gray-600 mb-4 font-medium">Sales Automation</p>
+                  <p className="text-gray-600 mb-4 font-medium">Group Decision App (Link Coming Soon)</p>
 
                   <div className="space-y-4 text-gray-700">
                     <div>
                       <h4 className="font-semibold text-gray-900 mb-2">Problem</h4>
                       <p>
-                        Outbound sales for Nomad meant manually clicking through trade show directories, evaluating leads, and writing custom outreach. Painfully slow.
+                        Figuring out where to eat as a group is unnecessarily slow. Group chats drag on with indecision and usually dump a last-minute planning burden on one person.
                       </p>
                     </div>
 
                     <div>
                       <h4 className="font-semibold text-gray-900 mb-2">What I Built</h4>
                       <p>
-                        A scraper that pulls brand data into spreadsheets, ranks leads by fit, and preps them for outreach. Days of research compressed into minutes.
+                        Hungriful is a web app that turns planning a group dinner into a quick, shared decision. A host sets the criteria (time, location range, price point),
+                        the app shows everyone restaurant options that match, friends swipe on what they’re down for, and Hungriful returns the top choice with the ability to reserve directly in-app.
                       </p>
-                      <p className="mt-2 text-sm italic">
-                        Next: automate personalized emails using the scraped data.
-                      </p>
+                  
                     </div>
 
                     <div>
                       <p className="text-sm text-gray-600">
-                        Tech: Web scraping, built with Codex
+                        Tech: React/Next.js (frontend), Node.js (backend APIs), Firebase/Firestore for realtime updates, Google Places/Yelp API
                       </p>
                     </div>
                   </div>
@@ -546,10 +545,10 @@ export default function Home() {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
             Get in Touch
           </h2>
-          <p className="text-lg text-gray-600 mb-8">
+          <p className="text-base md:text-lg text-gray-600 mb-8">
             Always open to product opportunities, collaborations, or just chatting about building things.
           </p>
-          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center text-lg">
+          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center text-base md:text-lg">
             <a href="mailto:yukaperera@gmail.com" className="text-gray-700 hover:text-gray-900">
               yukaperera@gmail.com
             </a>
