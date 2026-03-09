@@ -46,7 +46,7 @@ export default function Home() {
               src="/images/Yuka_Headshot.png"
               alt="Yuka Perera"
               fill
-              className="object-cover object-[70%_50%]"
+              className="object-cover object-[50%_50%]"
               priority
             />
           </div>
@@ -57,13 +57,13 @@ export default function Home() {
 
           <div className="flex flex-wrap items-center justify-center gap-3 mb-8">
             <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-sm md:text-lg font-semibold shadow-sm">
-              <strong>MIT</strong>  Engineering
+              <strong>MIT</strong>  Engineer
             </span>
             <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-sm md:text-lg font-semibold shadow-sm">
               <strong>Co-founder</strong>
             </span>
             <span className="px-5 py-2 bg-teal-600 text-white rounded-full text-sm md:text-lg font-semibold shadow-sm">
-              <strong>Product Manager</strong> & Builder
+              <strong>Builder</strong> 
             </span>
           </div>
 
@@ -398,8 +398,9 @@ export default function Home() {
                     <div>
                       <h4 className="font-semibold text-gray-900 mb-2">What I Built</h4>
                       <p>
-                        Hungriful is a web app that turns planning a group dinner into a quick, shared decision. A host sets the criteria (time, location range, price point),
-                        the app shows everyone restaurant options that match, friends swipe on what they’re down for, and Hungriful returns the top choice with the ability to reserve directly in-app.
+                        Hungriful is a web app that uses agentic capabilities to turn planning group dinners into a quick, shared decision. A host sets the criteria (time, location range, price point),
+                        the app shows everyone restaurant options that match, friends swipe on what they’re down for, and Hungriful returns the top choice with the ability to reserve directly in-app. The UI 
+                        is a chat interface that makes an API call to Gemini, which parses the prompt intent and calls subsequent APIs (e.g., Google Places, Resy).
                       </p>
                   
                     </div>
@@ -440,7 +441,7 @@ export default function Home() {
                   <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2">
                     <div>
                       <h3 className="text-xl font-bold text-gray-900">Accenture Strategy</h3>
-                      <p className="text-base text-gray-600 font-medium">Strategy Analyst</p>
+                      <p className="text-base text-gray-600 font-medium">Strategist</p>
                     </div>
                     <p className="text-gray-500 text-sm sm:text-base">June 2024 – Present</p>
                   </div>
@@ -510,7 +511,7 @@ export default function Home() {
                   <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2">
                     <div>
                       <h3 className="text-xl font-bold text-gray-900">General Motors</h3>
-                      <p className="text-base text-gray-600 font-medium">Product Development Hardware Engineering Intern</p>
+                      <p className="text-base text-gray-600 font-medium">Product Development Hardware Engineer</p>
                     </div>
                     <p className="text-gray-500 text-sm sm:text-base">Jun 2022 – Aug 2022</p>
                   </div>
