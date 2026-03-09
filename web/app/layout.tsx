@@ -13,11 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yuka Perera | Product Manager & Builder",
-  description: "MIT-educated product manager and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
+  title: "Yuka Perera | AI Strategist & Builder",
+  description: "MIT-educated AI strategist and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
   openGraph: {
-    title: "Yuka Perera | Product Manager & Builder",
-    description: "MIT-educated product manager and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
+    title: "Yuka Perera | AI Strategist & Builder",
+    description: "MIT-educated AI strategist and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
     images: [
       {
         url: "/images/Yuka_Headshot.png",
@@ -30,8 +30,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yuka Perera | Product Manager & Builder",
-    description: "MIT-educated product manager and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
+    title: "Yuka Perera | AI Strategist & Builder",
+    description: "MIT-educated AI strategist and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
     images: ["https://yukaperera.com/images/Yuka_Headshot.png"],
   },
 };
