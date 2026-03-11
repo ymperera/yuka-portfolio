@@ -1,23 +1,27 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  display: "swap",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const playfair = Playfair_Display({
+  variable: "--font-playfair",
   subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800", "900"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Yuka Perera | AI Strategist & Builder",
-  description: "MIT-educated AI strategist and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
+  title: "Yuka Perera | MIT Engineer, Co-founder, Product Builder",
+  description: "MIT-educated engineer and co-founder building products that solve real user problems. Strategy consultant by day, product builder by passion.",
   openGraph: {
-    title: "Yuka Perera | AI Strategist & Builder",
-    description: "MIT-educated AI strategist and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
+    title: "Yuka Perera | MIT Engineer, Co-founder, Product Builder",
+    description: "MIT-educated engineer and co-founder building products that solve real user problems. Strategy consultant by day, product builder by passion.",
     images: [
       {
         url: "/images/Yuka_Headshot.png",
@@ -30,8 +34,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yuka Perera | AI Strategist & Builder",
-    description: "MIT-educated AI strategist and co-founder of Nomad Mannequin. Building products that bridge strategy and execution.",
+    title: "Yuka Perera | MIT Engineer, Co-founder, Product Builder",
+    description: "MIT-educated engineer and co-founder building products that solve real user problems. Strategy consultant by day, product builder by passion.",
     images: ["https://yukaperera.com/images/Yuka_Headshot.png"],
   },
 };
@@ -43,9 +47,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${inter.variable} ${playfair.variable} antialiased`}>
         {children}
       </body>
     </html>
