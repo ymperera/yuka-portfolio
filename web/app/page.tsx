@@ -22,7 +22,7 @@ export default function Home() {
     },
     reelbot: {
       title: "Reel Bot",
-      role: "Product Builder",
+      role: "Builder",
       category: "Growth Automation",
       image: "/images/ReelBot.MOV",
       imageType: "video" as const,
@@ -34,7 +34,7 @@ export default function Home() {
     },
     picklq: {
       title: "PicklQ",
-      role: "Product Builder",
+      role: "Builder",
       category: "Community Tool",
       image: "/images/PicklQ1.png",
       link: "https://picklq.com",
@@ -45,7 +45,7 @@ export default function Home() {
     },
     hungriful: {
       title: "Hungriful",
-      role: "Product Builder",
+      role: "Builder",
       category: "Group Decision App",
       image: "/images/hungriful.png",
       imageType: "gradient" as const,
