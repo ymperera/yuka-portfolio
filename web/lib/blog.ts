@@ -26,7 +26,7 @@ export const posts: BlogPost[] = [
         type: 'image',
         src: '/images/blog/senior-day-baby-tennis.jpg',
         alt: 'My brother playing tennis as a kid',
-        caption: 'Exhibit A.',
+        caption: 'This baby is graduating from Harvard in May!!',
         objectPosition: 'top',
         aspectRatio: '16/9',
       },

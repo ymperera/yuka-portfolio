@@ -69,7 +69,7 @@ export default function BlogPage() {
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal font-[family-name:var(--font-playfair)] leading-tight mb-6">
             Side Quests
           </h1>
-          <p className="text-lg text-gray-mid max-w-xl leading-relaxed">
+          <p className="text-lg text-gray-mid max-w-2xl leading-relaxed">
             Things I build, think about, and get into outside of work. Just what's actually on my mind.
           </p>
         </div>
