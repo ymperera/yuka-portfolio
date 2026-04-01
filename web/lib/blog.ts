@@ -81,7 +81,7 @@ export const posts: BlogPost[] = [
       },
       {
         type: 'callout',
-        text: "The real win here isn't the video or the (minimal) time save. It's that I got to show my mom how to use Claude Code.",
+        text: "The real win here isn't the video or the (minimal) time save. It's that I got to show my mom what Claude Code is, what it can do, and how she can use it.",
       },
       {
         type: 'paragraph',
