@@ -54,7 +54,7 @@ export const posts: BlogPost[] = [
       },
       {
         type: 'paragraph',
-        text: "The reason it's three scripts instead of one comes down to my mom's one request: she needed to be able to see the photos and reorder them without having to interact with any code. My mom finds the terminal very intimidating, like she's \"doing something bad, like hacking\", so the goal was to give her exactly one moment of contact with it (running the scripts) and then send her to a familiar app experience. So for the pipeline, the stages are kept separate. Scan all the images first, arrange them in a UI second, and render last, which is what makes it something she can actually use without touching any code.",
+        text: "The reason it's three scripts instead of one comes down to my mom's one request: she needed to be able to see the photos and reorder them without having to interact with any code. My mom finds the terminal very intimidating, like \"I'm doing something bad, like hacking\". So the goal was to give her a little taste of it (running the scripts) and then send her to a familiar app-like experience. So for the pipeline, the stages are kept separate. Scan all the images first, arrange them in a UI second, and render last, which is what makes it something she can actually use without touching any code.",
       },
       {
         type: 'paragraph',
