@@ -1,8 +1,11 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { ProjectCard } from "@/components/ProjectCard";
 import { ProjectModal } from "@/components/ProjectModal";
+import { BlogCard } from "@/components/BlogCard";
+import { posts } from "@/lib/blog";
 import { useState } from "react";
 
 export default function Home() {
@@ -83,6 +86,10 @@ export default function Home() {
                 Experience
                 <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-indigo group-hover:w-full transition-all duration-300"></span>
               </a>
+              <Link href="/blog" className="relative text-charcoal hover:text-indigo transition-colors duration-200 group">
+                Blog
+                <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-indigo group-hover:w-full transition-all duration-300"></span>
+              </Link>
               <a href="#contact" className="relative text-charcoal hover:text-indigo transition-colors duration-200 group">
                 Contact
                 <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-indigo group-hover:w-full transition-all duration-300"></span>
@@ -513,6 +520,32 @@ export default function Home() {
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Latest Side Quests */}
+      <section className="bg-warm-gray py-32 md:py-40">
+        <div className="max-w-6xl mx-auto px-6 lg:px-12">
+          <div className="mb-16 flex flex-col md:flex-row md:items-end md:justify-between gap-4">
+            <div>
+              <p className="text-xs uppercase tracking-[0.2em] text-gray-mid mb-4">THE BLOG</p>
+              <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-charcoal font-[family-name:var(--font-playfair)] leading-tight">
+                Side Quests
+              </h2>
+            </div>
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-1 text-indigo font-medium hover:text-indigo-light transition-colors duration-200 group shrink-0"
+            >
+              All posts
+              <span className="transform group-hover:translate-x-1 transition-transform duration-200">→</span>
+            </Link>
+          </div>
+          <div className="grid md:grid-cols-2 gap-8">
+            {posts.slice(0, 2).map((post) => (
+              <BlogCard key={post.slug} post={post} />
+            ))}
           </div>
         </div>
       </section>
